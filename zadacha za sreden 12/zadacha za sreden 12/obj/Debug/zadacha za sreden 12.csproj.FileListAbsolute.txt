@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Zadacha za sreden\zadacha za sreden 12\zadacha za sreden 12\obj\Debug\zadacha za sreden 12.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Zadacha za sreden\zadacha za sreden 12\zadacha za sreden 12\obj\Debug\zadacha za sreden 12.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Zadacha za sreden\zadacha za sreden 12\zadacha za sreden 12\bin\Debug\zadacha za sreden 12.exe.config
+C:\Users\HP\Desktop\Zadacha za sreden\zadacha za sreden 12\zadacha za sreden 12\bin\Debug\zadacha za sreden 12.exe
+C:\Users\HP\Desktop\Zadacha za sreden\zadacha za sreden 12\zadacha za sreden 12\bin\Debug\zadacha za sreden 12.pdb
+C:\Users\HP\Desktop\Zadacha za sreden\zadacha za sreden 12\zadacha za sreden 12\obj\Debug\zadacha za sreden 12.exe
+C:\Users\HP\Desktop\Zadacha za sreden\zadacha za sreden 12\zadacha za sreden 12\obj\Debug\zadacha za sreden 12.pdb

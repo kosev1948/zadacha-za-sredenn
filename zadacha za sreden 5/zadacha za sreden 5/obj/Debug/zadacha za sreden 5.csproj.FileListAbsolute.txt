@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Zadacha za sreden\zadacha za sreden 5\zadacha za sreden 5\bin\Debug\zadacha za sreden 5.exe.config
+C:\Users\HP\Desktop\Zadacha za sreden\zadacha za sreden 5\zadacha za sreden 5\bin\Debug\zadacha za sreden 5.exe
+C:\Users\HP\Desktop\Zadacha za sreden\zadacha za sreden 5\zadacha za sreden 5\bin\Debug\zadacha za sreden 5.pdb
+C:\Users\HP\Desktop\Zadacha za sreden\zadacha za sreden 5\zadacha za sreden 5\obj\Debug\zadacha za sreden 5.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Zadacha za sreden\zadacha za sreden 5\zadacha za sreden 5\obj\Debug\zadacha za sreden 5.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Zadacha za sreden\zadacha za sreden 5\zadacha za sreden 5\obj\Debug\zadacha za sreden 5.exe
+C:\Users\HP\Desktop\Zadacha za sreden\zadacha za sreden 5\zadacha za sreden 5\obj\Debug\zadacha za sreden 5.pdb
